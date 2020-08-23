@@ -43,6 +43,6 @@ public class Jungol1671 {
 				}
 			}
 		}
-			System.out.println(cnt);
+		System.out.println(cnt);
 	}
 }

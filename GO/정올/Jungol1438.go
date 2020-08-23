@@ -23,6 +23,21 @@ func main() {
 	left := 0
 	under := 0
 	for i := 0; i < coloredPaper; i++ {
-		fmt.Println()
+		fmt.Println("두 개의 자연수를 입력하세요. 첫 번째 자연수는 색종이의 왼쪽 변과 도화지의 왼쪽 변 사이의 거리이고, 두 번째 자연수는 색종이의 아래쪽 변과 도화지의 아래쪽 변 사이의 거리입니다.")
+		fmt.Scan(&left)
+		fmt.Scan(&under)
+		for j := left; j < left+10; j++ {
+			for k := under; k < under+10; k++ {
+				paper[j][k] = 1
+			}
+		}
 	}
+	for i := 0; i < 100; i++ {
+		for j := 0; j < 100; j++ {
+			if paper[i][j] == 1 {
+				cnt++
+			}
+		}
+	}
+	fmt.Println(cnt)
 }
