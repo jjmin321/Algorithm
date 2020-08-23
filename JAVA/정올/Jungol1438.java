@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Jungol1438색종이 {
+public class Jungol1438 {
     public static void main(String[] args) {
         int[][] count = new int[100][100];
         int value = 0;
@@ -14,13 +14,7 @@ public class Jungol1438색종이 {
             left = sc.nextInt();
             under = sc.nextInt();
             for (int j = left; j < left+10; j++) {
-                if (j > 100) {
-                    break;
-                }
                 for (int k = under; k < under+10; k++) {
-                    if (k > 100) {
-                        break;
-                    }
                     count[j][k] = 1;
                 }
             }
