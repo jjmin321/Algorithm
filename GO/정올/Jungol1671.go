@@ -43,5 +43,5 @@ func main() {
 			}
 		}
 	}
-
+	fmt.Println(cnt)
 }
