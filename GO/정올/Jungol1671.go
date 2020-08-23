@@ -19,11 +19,12 @@ func main() {
 	paper := [100][100]int{}
 	cnt := 0
 	var coloredPaper int
+	fmt.Println("한 개의 자연수를 입력하세요. 입력하는 자연수는 색종이의 수를 지정하는 수입니다.")
 	fmt.Scan(&coloredPaper)
 	left := 0
 	under := 0
 	for i := 0; i < coloredPaper; i++ {
-		fmt.Println("왼쪽에서부터랑 밑에서부터 얼마나 거리 벌릴건지 입력해라")
+		fmt.Println("두 개의 자연수를 입력하세요. 첫 번째 자연수는 색종이의 왼쪽 변과 도화지의 왼쪽 변 사이의 거리이고, 두 번째 자연수는 색종이의 아래쪽 변과 도화지의 아래쪽 변 사이의 거리입니다.")
 		fmt.Scan(&left)
 		fmt.Scan(&under)
 		for j := left; j < left+10; j++ {
