@@ -32,13 +32,13 @@ public class Jungol1438 {
             }
         }
         sc.close();
-            for (int i = 0; i < 100; i++) {
-                for (int j = 0; j < 100; j++) {
-                    if (paper[i][j] == 1) {
-                        cnt++;
-                    }
-                }
-            }
-            System.out.println(cnt);
+        for (int i = 0; i < 100; i++) {
+            for (int j = 0; j < 100; j++) {
+                   if (paper[i][j] == 1) {
+                      cnt++;
+                   }
+             }
+         }
+        System.out.println(cnt);
     }
 }

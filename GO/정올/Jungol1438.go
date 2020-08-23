@@ -12,6 +12,17 @@ http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=712&sca=2060
 
 package main
 
+import "fmt"
+
 func main() {
-	count := [][]int{}
+	paper := [100][100]int{}
+	cnt := 0
+	var coloredPaper int
+	fmt.Println("한 개의 자연수를 입력하세요. 입력하는 자연수는 색종이의 수를 지정하는 수입니다.")
+	fmt.Scan(&coloredPaper)
+	left := 0
+	under := 0
+	for i := 0; i < coloredPaper; i++ {
+		fmt.Println()
+	}
 }
