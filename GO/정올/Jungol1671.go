@@ -11,38 +11,3 @@ http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=944&sca=2060
 하지만 꼭짓점의 경우 둘레길이 2를 차지하므로, 상하좌우에 값이 0인 인덱스가 2개라면 둘레길이에 2를 더하였습니다.
 */
 
-import java.util.Scanner;
-
-public class Jungol1671 {
-    public static void main(String[] args) {
-		int[][] paper = new int[100][100];
-		int cnt = 0;
-		Scanner sc = new Scanner(System.in);
-		int coloredPaper = sc.nextInt();
-		int left = 0;
-		int under = 0;
-		for (int i = 0; i < coloredPaper; i++) {
-			System.out.println("왼쪽에서부터랑 밑에서부터 얼마나 거리 벌릴건지 입력해라");
-			left = sc.nextInt();
-			under = sc.nextInt();
-			for (int j = left; j < left+10; j++) {
-				for (int k = under; k < under+10; k++) {
-					paper[j][k] = 1;
-				}
-			}
-		}
-		sc.close();
-		for (int i = 0; i < 100; i++) {
-			for (int j = 0; j < 100; j++) {
-				if (paper[i][j] == 1) {
-					if ((paper[i+1][j] == 0 || paper[i-1][j] == 0) && (paper[i][j+1] == 0 || paper[i][j-1] == 0)) {
-						cnt += 2;
-					}else if (paper[i+1][j] == 0 || paper[i-1][j] == 0 || paper[i][j+1] == 0 || paper[i][j-1] == 0) {
-						cnt++;
-					}
-				}
-			}
-		}
-			System.out.println(cnt);
-	}
-}
