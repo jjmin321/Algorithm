@@ -1,16 +1,22 @@
+import java.util.HashMap;
+import java.util.Map;
+
 public class Hash1 {
     public static void main(String []args) {
         String[] participant = {"mislav", "stanko", "mislav", "ana"};
         String[] completion = {"mislav", "ana", "mislav"};
-        String answer = solution(participant, completion);
-        System.out.println(answer);
+        String answer = hashmethod(participant, completion);
+        System.out.println(answer.toString());
     }
 
-    public String hashMap(String[] participant, String[] completion) {
+    public static String hashmethod(String[] participant, String[] completion) {
         Map<String, Integer> cache = new HashMap<>();
-        for (int i = 0, i < participant.length; i++) {
-            String k = participant[i];
-            cache.
+        for (int i = 0; i < participant.length; i++) {
+            cache.put(participant[i], 1);
         }
+        for (int i = 0; i < completion.length; i++) {
+            cache.remove(completion[i]);
+        }
+        return cache.keySet().toString();
     }
 }
