@@ -52,8 +52,8 @@ public class Jungol3560 {
         }
         scanner.close();
         slice(square, 0, 0, n);
-        for (int i=0; i < result.size(); i++) {
-			System.out.print(result.get(i));
+        for (String item : result) {
+			System.out.print(item);
 		}
     }
 
