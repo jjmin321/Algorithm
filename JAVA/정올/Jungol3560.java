@@ -56,7 +56,6 @@ public class Jungol3560 {
 			System.out.print(item);
 		}
     }
-
     public static void slice(int [][]square, int horizontal, int vertical, int size){
         boolean is_same = true;
         for (int i = horizontal; i < horizontal+size; i++) {
