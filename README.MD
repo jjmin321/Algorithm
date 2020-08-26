@@ -9,14 +9,19 @@ JAVA의 단점 : 조건이 까다로워지면 가독성이 떨어짐<br>
 
 - 정올 1335 : 색종이 만들기(영역구분)
     - http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=614&sca=30
+    - JAVA로 풀었습니다.
 - 정올 1438 : 색종이 (초)
     - http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=712&sca=2060
+    - GO, JAVA로 풀었습니다.
 - 정올 1671 : 색종이 (중)
     - http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=944&sca=2060
+    - GO, JAVA로 풀었습니다.
 - 정올 3560 : 색종이 만들기 2 (4진트리)
     - http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2900&sca=3010
+    - JAVA로 풀었습니다.
 
 <h2> 프로그래머스 </h2>
 
 - 해시 LEVEL1 : 완주하지 못한 선수
     - https://programmers.co.kr/learn/courses/30/lessons/42576
+    - JAVA로 풀었습니다.
