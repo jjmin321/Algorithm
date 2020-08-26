@@ -6,10 +6,10 @@ https://programmers.co.kr/learn/courses/30/lessons/42576
 마라톤에 참여한 선수들의 이름이 담긴 배열 participant와 완주한 선수들의 이름이 담긴 배열 completion이 주어질 때, 
 완주하지 못한 선수의 이름을 return 하도록 solution 함수를 작성해주세요.
 
-풀이 : 배열과 맵 두
+풀이 : (배열과 맵 두 가지를 통해 풀 수 있는데 저는 맵을 사용하였습니다.)
+맵에서 Key를 참가자들, Value를 1로 순회하면서 값을 넣었습니다, 만약 Value가 1이상일 경우 1을 넣지 않고 더하였습니다.
+맵을 순회하며 완주자가 Key에 존재하다면 Value를 1을 빼서 최종적으로 Value가 0이 아닌 값을 출력하여 중복이름까지 걸러냈습니다.
 */
-
-import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
