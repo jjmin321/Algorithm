@@ -13,7 +13,7 @@ https://programmers.co.kr/learn/courses/30/lessons/42576
 import java.util.HashMap;
 import java.util.Map;
 
-public class Hash1 {
+public class 완주하지못한선수 {
     public static void main(String []args) {
         String[] participant = {"mislav", "stanko", "mislav", "ana"};
         String[] completion = {"stanko", "ana", "mislav"};
