@@ -1,4 +1,5 @@
 import java.util.HashMap;
+import java.util.Map;
 
 public class HashLevel2 {
     public static void main(String[] args) {
@@ -7,9 +8,9 @@ public class HashLevel2 {
     }
 
     public static boolean solution(String[] phone_book) {
-        Map<int, int> cache = new HashMap<>();
+        Map<Integer, String> cache = new HashMap<>();
         for (int i = 0; i < phone_book.length; i++) {
-
+            cache.put(i, phone_book[i]);
         }
         return true;
     }
