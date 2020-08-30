@@ -15,7 +15,10 @@ public class HashLevel2_2 {
                 cache.replace(clothes[i][1], cache.get(clothes[i][1])+1);
             else 
                 cache.put(clothes[i][1], 1);
-            
+        }
+        
+        for (Map.Entry<String, Integer> item : cache.entrySet()) {
+            System.out.println(item);
         }
         return answer;
     }
