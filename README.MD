@@ -23,3 +23,7 @@ JAVA의 장점 : 어려운 문제를 풀 때 사용할 수 있는 기능들이 �
 - 해시 LEVEL1 : 완주하지 못한 선수
     - https://programmers.co.kr/learn/courses/30/lessons/42576
     - JAVA로 풀었습니다.
+
+- 해시 LEVEL2-2 : 위장
+    - https://programmers.co.kr/learn/courses/30/lessons/42578
+    - JAVA로 풀었습니다.
