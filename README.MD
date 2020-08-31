@@ -6,13 +6,16 @@ JAVA의 장점 : 어려운 문제를 풀 때 사용할 수 있는 기능들이 �
 <h2> 정올</h2>
 
 - 정올 1335 : 색종이 만들기(영역구분)
-    - http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=614&sca=30
+    - 정올 사이트 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=614&sca=30
+    - https://github.com/jjmin321/Algorithm/blob/master/JAVA/정올/Jungol1335.java
     - JAVA로 풀었습니다.
 - 정올 1438 : 색종이 (초)
     - http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=712&sca=2060
+    - https://github.com/jjmin321/Algorithm/blob/master/GO/정올/Jungol1438.go
     - GO, JAVA로 풀었습니다.
 - 정올 1671 : 색종이 (중)
     - http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=944&sca=2060
+    - https://github.com/jjmin321/Algorithm/blob/master/GO/정올/Jungol1671.go
     - GO, JAVA로 풀었습니다.
 - 정올 3560 : 색종이 만들기 2 (4진트리)
     - http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2900&sca=3010
