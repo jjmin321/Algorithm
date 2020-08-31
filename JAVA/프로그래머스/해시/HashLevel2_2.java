@@ -16,9 +16,7 @@ https://programmers.co.kr/learn/courses/30/lessons/42578
     을 통해 모든 경우의 수를 구한 후 아무것도 안 입었을 때의 경우 1가지를 빼면 답이 나옵니다.
 */
 
-import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 
 public class HashLevel2_2 {
