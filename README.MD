@@ -1,11 +1,9 @@
 <h1> 👨‍💻 알고리즘 직접 푼 문제들 👨‍💻</h1>
-GO의 장점 : 생각나는 대로 빠르게 코딩 가능 <br>
-GO의 단점 : 자바의 scanner처럼 기본적으로 내장되어 있는 함수들이 부족해서 조건이 많을수록 힘들어짐.<br>
+GO의 장점 : 쉬운 문제를 빠르게 코딩 가능 <br>
 <br>
-JAVA의 장점 : 알고리즘을 할 때 사용할 수 있는 기본 기능이 많음.<br>
-JAVA의 단점 : 조건이 까다로워지면 가독성이 떨어짐<br>
+JAVA의 장점 : 어려운 문제를 풀 때 사용할 수 있는 기능들이 많음.<br>
 
-<h2> 정올 </h2>
+<h2> 정올 - 메모리 사용량 제한</h2>
 
 - 정올 1335 : 색종이 만들기(영역구분)
     - http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=614&sca=30
@@ -20,7 +18,7 @@ JAVA의 단점 : 조건이 까다로워지면 가독성이 떨어짐<br>
     - http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2900&sca=3010
     - JAVA로 풀었습니다.
 
-<h2> 프로그래머스 </h2>
+<h2> 프로그래머스 - 정확도 , 효율성 테스트 100점</h2>
 
 - 해시 LEVEL1 : 완주하지 못한 선수
     - https://programmers.co.kr/learn/courses/30/lessons/42576
