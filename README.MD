@@ -21,7 +21,7 @@ JAVA의 장점 : 어려운 문제를 풀 때 사용할 수 있는 기능들이 �
 <h2> 프로그래머스 - 정확도 , 효율성 테스트 100점</h2>
 
 - 해시 LEVEL1 : 완주하지 못한 선수
-    - https://programmers.co.kr/learn/courses/30/lessons/42576
+    - https://programmers.co.kr/learn/courses/30/lessons/42576asdaaasdfasdfadfasdfasfasf
     - JAVA로 풀었습니다.
 
 - 해시 LEVEL2-2 : 위장
