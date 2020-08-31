@@ -24,6 +24,10 @@ JAVA의 장점 : 어려운 문제를 풀 때 사용할 수 있는 기능들이 �
     - https://programmers.co.kr/learn/courses/30/lessons/42576asdaaasdfasdfadfasdfasfasf
     - JAVA로 풀었습니다.
 
+- 정올 3560 : 색종이 만들기 2 (4진트리)
+    - http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2900&sca=3010
+    - JAVA로 풀었습니다.
+    
 - 해시 LEVEL2-2 : 위장
     - https://programmers.co.kr/learn/courses/30/lessons/42578
     - JAVA로 풀었습니다.
