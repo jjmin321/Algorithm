@@ -6,6 +6,7 @@ JAVA의 장점 : 어려운 문제를 풀 때 사용할 수 있는 기능들이 �
 <h2> 정올</h2>
 
 - 정올 1335 : 색종이 만들기(영역구분)
+
     - 정올 사이트 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=614&sca=30
     - 자바 풀이 : https://github.com/jjmin321/Algorithm/blob/master/JAVA/정올/Jungol1335.java
     - JAVA로 풀었습니다.
