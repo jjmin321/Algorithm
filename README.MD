@@ -26,6 +26,10 @@ JAVA의 장점 : 어려운 문제를 풀 때 사용할 수 있는 기능들이 �
     - 프로그래머스 사이트 : https://programmers.co.kr/learn/courses/30/lessons/42576
     - 자바 풀이 : https://github.com/jjmin321/Algorithm/blob/master/JAVA/프로그래머스/해시/HashLevel1.java
 
+- 해시 LEVEL2 : 전화번호 목록 
+    - 프로그래머스 사이트 : https://programmers.co.kr/learn/courses/30/lessons/42577
+    - 자바 풀이 : https://github.com/jjmin321/Algorithm/blob/master/JAVA/프로그래머스/해시/HashLevel2.java
+
 - 해시 LEVEL2-2 : 위장
     - 프로그래머스 사이트 : https://programmers.co.kr/learn/courses/30/lessons/42578
     - 자바 풀이 : https://github.com/jjmin321/Algorithm/blob/master/JAVA/프로그래머스/해시/HashLevel2_2.java
