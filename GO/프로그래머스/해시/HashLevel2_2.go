@@ -29,8 +29,16 @@ func main() {
 func solution(clothes [][]string) int {
 	answer := 1
 	cache := make(map[string]int)
-	for i := 0; i < len(clothes) i++ {
+	for i := 0; i < len(clothes); i++ {
+		if 0 < cache[clothes[i][1]] {
+			cache[clothes[i][1]]++
+		} else {
+			cache[clothes[i][1]] = 1
+		}
 	}
-	
+	for _, v := range cache {
+		answer = answer * (v + 1)
+	}
+
 	return answer - 1
 }
