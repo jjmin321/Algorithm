@@ -1,9 +1,14 @@
-<h1> 👨‍💻 알고리즘 직접 풀어 통과한 문제들 👨‍💻</h1>
-GO의 장점 : 쉬운 문제를 빠르게 코딩 가능 <br>
-<br>
-JAVA의 장점 : 어려운 문제를 풀 때 사용할 수 있는 기능들이 많음.<br>
+# Algorithm
+🖥 알고리즘 문제를 직접 풀어 풀이와 함께 정리해둔 저장소입니다
 
-<h2> 정올</h2>
+## Stack
+|                      | Algorithm  | 
+|:--------------------:|:------------------:|
+| Developer | 제정민 | 
+| Develop Language | GO, JAVA |
+| Develop Tool     | Visual Studio |
+
+## 정올
 
 - 정올 1335 : 색종이 만들기(영역구분)
     - 정올 사이트 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=614&sca=30
@@ -23,7 +28,7 @@ JAVA의 장점 : 어려운 문제를 풀 때 사용할 수 있는 기능들이 �
     - 정올 사이트 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2900&sca=3010
     - JAVA 풀이 : https://github.com/jjmin321/Algorithm/blob/master/JAVA/정올/Jungol3560.java
 
-<h2> 프로그래머스</h2>
+## 프로그래머스
 
 - 해시 LEVEL1 : 완주하지 못한 선수
     - 프로그래머스 사이트 : https://programmers.co.kr/learn/courses/30/lessons/42576
@@ -35,4 +40,5 @@ JAVA의 장점 : 어려운 문제를 풀 때 사용할 수 있는 기능들이 �
 
 - 해시 LEVEL2-2 : 위장
     - 프로그래머스 사이트 : https://programmers.co.kr/learn/courses/30/lessons/42578
+    - GO 풀이 : https://github.com/jjmin321/Algorithm/blob/master/GO/프로그래머스/해시/HashLevel2_2.go
     - JAVA 풀이 : https://github.com/jjmin321/Algorithm/blob/master/JAVA/프로그래머스/해시/HashLevel2_2.java
