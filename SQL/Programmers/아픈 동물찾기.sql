@@ -1,5 +1,11 @@
 /*
 https://programmers.co.kr/learn/courses/30/lessons/59036
 
-풀이 : SELECT 보고 싶은 항목 FROM 테이블 을 통해 데이터를 불러온 후 ORDER BY 를 사용하여 ANIMAL_ID으로 정렬함 (DESC를 붙히면 내림차순으로 정렬이 됨)
+1. SELECT ANIMAL_ID, NAME FROM으로 테이블에서 아이디 값, 이름 값을 가지고 옴 
+2. WHERE으로 아픈 동물들만 찾음 
+3. ORDER BY로 오름차순 정렬함
 */
+
+SELECT ANIMAL_ID, NAME FROM ANIMAL_INS 
+WHERE INTAKE_CONDITION = 'Sick'
+ORDER BY ANIMAL_ID
