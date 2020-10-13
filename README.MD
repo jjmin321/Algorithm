@@ -5,7 +5,7 @@
 |                      | Algorithm  | 
 |:--------------------:|:------------------:|
 | Developer | 제정민 | 
-| Develop Language | GO, JAVA |
+| Develop Language | GO, JAVA, MySQL |
 | Develop Tool     | Visual Studio |
 
 ## 정올
