@@ -5,21 +5,21 @@
 |                      | Algorithm  | 
 |:--------------------:|:------------------:|
 | Developer | 제정민 | 
-| Develop Language | GO, JAVA, MySQL |
+| Develop Language | GO, JAVA, PYTHON, MySQL |
 | Develop Tool     | Visual Studio |
 
 ## 정올
 
 - 정올 1335 : 색종이 만들기(영역구분)
-    - JAVA : https://github.com/jjmin321/Algorithm/blob/master/JAVA/정올/Jungol1335.java
+    - JAVA : https://github.com/jjmin321/Algorithm/blob/master/JAVA/Jungol/Jungol1335.java
 
 - 정올 1438 : 색종이 (초)
-    - GO 풀이 : https://github.com/jjmin321/Algorithm/blob/master/GO/정올/Jungol1438.go
-    - JAVA : https://github.com/jjmin321/Algorithm/blob/master/JAVA/정올/Jungol1438.java
+    - GO 풀이 : https://github.com/jjmin321/Algorithm/blob/master/GO/Jungol/Jungol1438.go
+    - JAVA : https://github.com/jjmin321/Algorithm/blob/master/JAVA/Jungol/Jungol1438.java
 
 - 정올 1671 : 색종이 (중)
-    - GO : https://github.com/jjmin321/Algorithm/blob/master/GO/정올/Jungol1671.go
-    - JAVA : https://github.com/jjmin321/Algorithm/blob/master/JAVA/정올/Jungol1671.java
+    - GO : https://github.com/jjmin321/Algorithm/blob/master/GO/Jungol/Jungol1671.go
+    - JAVA : https://github.com/jjmin321/Algorithm/blob/master/JAVA/Jungol/Jungol1671.java
 
 - 정올 3560 : 색종이 만들기 2 (4진트리)
     - JAVA : https://github.com/jjmin321/Algorithm/blob/master/JAVA/정올/Jungol3560.java
@@ -27,14 +27,17 @@
 ## 프로그래머스
 
 - 해시 LEVEL1 : 완주하지 못한 선수
-    - JAVA : https://github.com/jjmin321/Algorithm/blob/master/JAVA/프로그래머스/해시/HashLevel1.java
+    - JAVA : https://github.com/jjmin321/Algorithm/blob/master/JAVA/Programmers/Hash/HashLevel1.java
+
+- 2019카카오개발자겨울인턴십 LEVEL1 : 크레인 인형뽑기 게임
+    - PYTHON : https://github.com/jjmin321/Algorithm/blob/master/PYTHON/Programmers/2019카카오개발자겨울인턴십/크레인%20인형뽑기%20게임.py
 
 - 해시 LEVEL2 : 전화번호 목록 
-    - JAVA : https://github.com/jjmin321/Algorithm/blob/master/JAVA/프로그래머스/해시/HashLevel2.java
+    - JAVA : https://github.com/jjmin321/Algorithm/blob/master/JAVA/Programmers/Hash/HashLevel2.java
 
 - 해시 LEVEL2-2 : 위장
-    - GO : https://github.com/jjmin321/Algorithm/blob/master/GO/프로그래머스/해시/HashLevel2_2.go
-    - JAVA : https://github.com/jjmin321/Algorithm/blob/master/JAVA/프로그래머스/해시/HashLevel2_2.java
+    - GO : https://github.com/jjmin321/Algorithm/blob/master/GO/Programmers/Hash/HashLevel2_2.go
+    - JAVA : https://github.com/jjmin321/Algorithm/blob/master/JAVA/Programmers/Hash/HashLevel2_2.java
 
 ## 프로그래머스_SQL
 
