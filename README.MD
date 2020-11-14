@@ -14,30 +14,30 @@
     - JAVA : https://github.com/jjmin321/Algorithm/blob/master/JAVA/Jungol/Jungol1335.java
 
 - 정올 1438 : 색종이 (초)
-    - GO 풀이 : https://github.com/jjmin321/Algorithm/blob/master/GO/Jungol/Jungol1438.go
+    - GO 풀이 : https://github.com/jjmin321/Algorithm/blob/master/GO/jungol/Jungol1438.go
     - JAVA : https://github.com/jjmin321/Algorithm/blob/master/JAVA/Jungol/Jungol1438.java
 
 - 정올 1671 : 색종이 (중)
-    - GO : https://github.com/jjmin321/Algorithm/blob/master/GO/Jungol/Jungol1671.go
+    - GO : https://github.com/jjmin321/Algorithm/blob/master/GO/jungol/Jungol1671.go
     - JAVA : https://github.com/jjmin321/Algorithm/blob/master/JAVA/Jungol/Jungol1671.java
 
 - 정올 3560 : 색종이 만들기 2 (4진트리)
-    - JAVA : https://github.com/jjmin321/Algorithm/blob/master/JAVA/정올/Jungol3560.java
+    - JAVA : https://github.com/jjmin321/Algorithm/blob/master/JAVA/Jungol/Jungol3560.java
 
 ## 프로그래머스
 
 - 해시 LEVEL1 : 완주하지 못한 선수
-    - JAVA : https://github.com/jjmin321/Algorithm/blob/master/JAVA/Programmers/Hash/HashLevel1.java
+    - JAVA : https://github.com/jjmin321/Algorithm/blob/master/JAVA/Programmers/Hash/완주하지못한선수.java
 
 - 2019카카오개발자겨울인턴십 LEVEL1 : 크레인 인형뽑기 게임
     - PYTHON : https://github.com/jjmin321/Algorithm/blob/master/PYTHON/Programmers/2019카카오개발자겨울인턴십/크레인%20인형뽑기%20게임.py
 
 - 해시 LEVEL2 : 전화번호 목록 
-    - JAVA : https://github.com/jjmin321/Algorithm/blob/master/JAVA/Programmers/Hash/HashLevel2.java
+    - JAVA : https://github.com/jjmin321/Algorithm/blob/master/JAVA/Programmers/Hash/전화번호목록.java
 
 - 해시 LEVEL2-2 : 위장
-    - GO : https://github.com/jjmin321/Algorithm/blob/master/GO/Programmers/Hash/HashLevel2_2.go
-    - JAVA : https://github.com/jjmin321/Algorithm/blob/master/JAVA/Programmers/Hash/HashLevel2_2.java
+    - GO : https://github.com/jjmin321/Algorithm/blob/master/GO/Programmers/Hash/위장.go
+    - JAVA : https://github.com/jjmin321/Algorithm/blob/master/JAVA/Programmers/Hash/위장.java
 
 ## 프로그래머스_SQL
 
