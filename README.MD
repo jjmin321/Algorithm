@@ -32,6 +32,9 @@
 - 2019카카오개발자겨울인턴십 LEVEL1 : 크레인 인형뽑기 게임
     - PYTHON : https://github.com/jjmin321/Algorithm/blob/master/PYTHON/Programmers/2019카카오개발자겨울인턴십/크레인인형뽑기게임.py
 
+- 월간코드챌린지시즌1 LEVEL1 : 두개 뽑아서 더하기 
+    - PYTHON : https://github.com/jjmin321/Algorithm/blob/master/PYTHON/Programmers/월간코드챌린지시즌1/두개뽑아서더하기.py
+
 - 해시 LEVEL2 : 전화번호 목록 
     - JAVA : https://github.com/jjmin321/Algorithm/blob/master/JAVA/Programmers/Hash/전화번호목록.java
 
