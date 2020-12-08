@@ -1,7 +1,7 @@
 '''
 https://programmers.co.kr/learn/courses/30/lessons/12910
 
-풀이 : 연속되는 숫자를 구별하기 위해 arr 리스트를 순회하여 리스트의 인덱스가 0일 때 또는 그 전 인덱스와 값이 다를 때의 값들을 반환하였습니다.
+풀이 : arr 리스트를 순회하여 divisor로 나누어떨어지는 값들만 모아 오름차순으로 정렬하여 반환합니다. 만약 값이 없다면 [-1]을 반환합니다.
 '''
 
 def solution(arr, divisor):
