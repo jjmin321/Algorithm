@@ -5,8 +5,13 @@
 |                      | Algorithm  | 
 |:--------------------:|:------------------:|
 | Developer | 제정민 | 
-| Develop Language | Go, Java, Python, MySQL |
-| Develop Tool     | Visual Studio |
+| Develop Language | Python, Java, Go, MySQL |
+| Develop Tool     | Visual Studio Code|
+
+## 카테고리 
+- [정올 - Java, Go](#정올)
+- [프로그래머스 - Python, Java, Go](#프로그래머스)
+- [프로그래머스_SQL - MySQL](#프로그래머스_SQL)
 
 ## 정올
 
@@ -79,3 +84,6 @@
 
 - 상위 n개 레코드
     - MySQL : https://github.com/jjmin321/Algorithm/blob/master/SQL/Programmers/Select/상위%20n개%20레코드.sql
+
+- 최댓값 구하기 
+    - MySQL : https://github.com/jjmin321/Algorithm/blob/master/SQL/Programmers/Sum%2CMax%2CMin/최댓값%20구하기.sql
