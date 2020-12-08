@@ -64,6 +64,9 @@
 - 연습문제 LEVEL1 : 두 정수 사이의 합
     - Python : https://github.com/jjmin321/Algorithm/blob/master/PYTHON/Programmers/연습문제/두정수사이의합.py
 
+- 연습문제 LEVEL1 : 문자열 내 마음대로 정렬하기 
+    - Python : https://github.com/jjmin321/Algorithm/blob/master/PYTHON/Programmers/연습문제/문자열내마음대로정렬하기.py
+
 - 해시 LEVEL2 : 전화번호 목록 
     - Java : https://github.com/jjmin321/Algorithm/blob/master/JAVA/Programmers/Hash/전화번호목록.java
 
