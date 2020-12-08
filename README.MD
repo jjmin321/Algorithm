@@ -52,14 +52,17 @@
 - 연습문제 LEVEL1 : 2016년
     - Python : https://github.com/jjmin321/Algorithm/blob/master/PYTHON/Programmers/연습문제/2016년.py
 
-- 연습문제 LEVEL1 : 가운데글자가져오기
+- 연습문제 LEVEL1 : 가운데 글자 가져오기
     - Python : https://github.com/jjmin321/Algorithm/blob/master/PYTHON/Programmers/연습문제/가운데글자가져오기.py
 
-- 연습문제 LEVEL1 : 같은문제는싫어 
+- 연습문제 LEVEL1 : 같은 문제는 싫어 
     - Python : https://github.com/jjmin321/Algorithm/blob/master/PYTHON/Programmers/연습문제/같은문제는싫어.py
 
-- 연습문제 LEVEL1 : 나누어떨어지는숫자배열
+- 연습문제 LEVEL1 : 나누어 떨어지는 숫자 배열
     - Python : https://github.com/jjmin321/Algorithm/blob/master/PYTHON/Programmers/연습문제/나누어떨어지는숫자배열.py
+
+- 연습문제 LEVEL1 : 두 정수 사이의 합
+    - Python : https://github.com/jjmin321/Algorithm/blob/master/PYTHON/Programmers/연습문제/두정수사이의합.py
 
 - 해시 LEVEL2 : 전화번호 목록 
     - Java : https://github.com/jjmin321/Algorithm/blob/master/JAVA/Programmers/Hash/전화번호목록.java
