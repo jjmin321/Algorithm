@@ -55,6 +55,12 @@
 - 연습문제 LEVEL1 : 가운데글자가져오기
     - Python : https://github.com/jjmin321/Algorithm/blob/master/PYTHON/Programmers/연습문제/가운데글자가져오기.py
 
+- 연습문제 LEVEL1 : 같은문제는싫어 
+    - Python : https://github.com/jjmin321/Algorithm/blob/master/PYTHON/Programmers/연습문제/같은문제는싫어.py
+
+- 연습문제 LEVEL1 : 나누어떨어지는숫자배열
+    - Python : https://github.com/jjmin321/Algorithm/blob/master/PYTHON/Programmers/연습문제/나누어떨어지는숫자배열.py
+
 - 해시 LEVEL2 : 전화번호 목록 
     - Java : https://github.com/jjmin321/Algorithm/blob/master/JAVA/Programmers/Hash/전화번호목록.java
 
