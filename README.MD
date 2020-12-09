@@ -70,6 +70,9 @@
 - 연습문제 LEVEL1 : 문자열 내 p와 y의 개수 
     - Python : https://github.com/jjmin321/Algorithm/blob/master/PYTHON/Programmers/연습문제/문자열내p와y의개수.py
 
+- 연습문제 LEVEL1 : 문자열 내림차순으로 배치하기 
+    - Python : https://github.com/jjmin321/Algorithm/blob/master/PYTHON/Programmers/연습문제/문자열내림차순으로배치하기.py
+
 - 해시 LEVEL2 : 전화번호 목록 
     - Java : https://github.com/jjmin321/Algorithm/blob/master/JAVA/Programmers/Hash/전화번호목록.java
 
