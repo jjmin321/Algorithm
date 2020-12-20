@@ -29,6 +29,23 @@
 - 정올 3560 : 색종이 만들기 2 (4진트리)
     - Java : https://github.com/jjmin321/Algorithm/blob/master/JAVA/Jungol/Jungol3560.java
 
+## 전국 중고등 알고리즘 경진대회 - 고등부 
+
+- 마름모 출력 
+    - Python : https://github.com/jjmin321/Algorithm/tree/master/PYTHON/전국고등부알고리즘경진대회/마름모출력.py
+
+- 100까지 모든 소수 구하기 
+    - Python : https://github.com/jjmin321/Algorithm/tree/master/PYTHON/전국고등부알고리즘경진대회/100까지모든소수구하기.py
+
+- 입력받은 값까지 피보나치 수열 출력 
+    - Python : https://github.com/jjmin321/Algorithm/tree/master/PYTHON/전국고등부알고리즘경진대회/입력받은값까지피보나치수열출력.py
+
+- 업다운 숫자 맞추기 게임 
+    - Python : https://github.com/jjmin321/Algorithm/tree/master/PYTHON/전국고등부알고리즘경진대회/업다운숫자맞추기게임.py
+
+- 삽입 정렬 구현하기
+    - Python : https://github.com/jjmin321/Algorithm/tree/master/PYTHON/전국고등부알고리즘경진대회/삽입정렬구현하기.py
+
 ## 프로그래머스
 
 - 해시 LEVEL1 : 완주하지 못한 선수
