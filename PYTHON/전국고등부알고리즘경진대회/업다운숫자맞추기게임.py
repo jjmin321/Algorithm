@@ -11,6 +11,6 @@ for i in range(10):
 	if my_number == random_number: 
 		print("정답!", cnt)
 		sys.exit()
-	message = "Up!" if my_number > random_number else "Down!"
+	message = "Down!" if my_number > random_number else "Up!"
 	print(message)
 print("Game over!")
