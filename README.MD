@@ -115,6 +115,9 @@
 - 연습문제 LEVEL1 : 서울에서 김서방 찾기 
     - Python : https://github.com/jjmin321/Algorithm/blob/master/PYTHON/Programmers/연습문제/서울에서김서방찾기.py
 
+- 연습문제 LEVEL1 : 이상한 문자 만들기 
+    - Python : https://github.com/jjmin321/Algorithm/blob/master/PYTHON/Programmers/연습문제/이상한문자만들기.py
+
 - 해시 LEVEL2 : 전화번호 목록 
     - Java : https://github.com/jjmin321/Algorithm/blob/master/JAVA/Programmers/Hash/전화번호목록.java
 
