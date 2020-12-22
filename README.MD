@@ -118,6 +118,9 @@
 - 연습문제 LEVEL1 : 이상한 문자 만들기 
     - Python : https://github.com/jjmin321/Algorithm/blob/master/PYTHON/Programmers/연습문제/이상한문자만들기.py
 
+- 연습문제 LEVEL1 : 자릿 수 더하기
+    - Python : https://github.com/jjmin321/Algorithm/blob/master/PYTHON/Programmers/연습문제/자릿수더하기.py
+
 - 해시 LEVEL2 : 전화번호 목록 
     - Java : https://github.com/jjmin321/Algorithm/blob/master/JAVA/Programmers/Hash/전화번호목록.java
 
