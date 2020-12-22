@@ -130,6 +130,9 @@
 - 연습문제 LEVEL1 : 정수 제곱근 판별 
     - Python : https://github.com/jjmin321/Algorithm/blob/master/PYTHON/Programmers/연습문제/정수제곱근판별.py
 
+- 연습문제 LEVEL1 : 제일 작은 수 제거하기 
+    - Python : https://github.com/jjmin321/Algorithm/blob/master/PYTHON/Programmers/연습문제/제일작은수제거하기.py
+
 - 해시 LEVEL2 : 전화번호 목록 
     - Java : https://github.com/jjmin321/Algorithm/blob/master/JAVA/Programmers/Hash/전화번호목록.java
 
