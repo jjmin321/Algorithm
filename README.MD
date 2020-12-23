@@ -142,6 +142,9 @@
 - 연습문제 LEVEL1 : 최대공약수와 최소공배수  
     - Python : https://github.com/jjmin321/Algorithm/blob/master/PYTHON/Programmers/연습문제/최대공약수와최소공배수.py
 
+- 연습문제 LEVEL1 : 콜라츠 추측
+    - Python : https://github.com/jjmin321/Algorithm/blob/master/PYTHON/Programmers/연습문제/콜라츠추측.py
+
 - 해시 LEVEL2 : 전화번호 목록 
     - Java : https://github.com/jjmin321/Algorithm/blob/master/JAVA/Programmers/Hash/전화번호목록.java
 
