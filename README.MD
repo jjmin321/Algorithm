@@ -148,6 +148,9 @@
 - 연습문제 LEVEL1 : 평균 구하기
     - Python : https://github.com/jjmin321/Algorithm/blob/master/PYTHON/Programmers/연습문제/평균구하기.py
 
+- 연습문제 LEVEL1 : 하샤드 수 
+    - Python : https://github.com/jjmin321/Algorithm/blob/master/PYTHON/Programmers/연습문제/하샤드수.py
+
 - 해시 LEVEL2 : 전화번호 목록 
     - Java : https://github.com/jjmin321/Algorithm/blob/master/JAVA/Programmers/Hash/전화번호목록.java
 
