@@ -186,3 +186,6 @@
 
 - 최댓값 구하기 
     - MySQL : https://github.com/jjmin321/Algorithm/blob/master/SQL/Programmers/Sum%2CMax%2CMin/최댓값%20구하기.sql
+
+- 이름이 없는 동물의 아이디
+    - MySQL : https://github.com/jjmin321/Algorithm/blob/master/SQL/Programmers/Sum%2CMax%2CMin/이름이없는동물의아이디.sql
