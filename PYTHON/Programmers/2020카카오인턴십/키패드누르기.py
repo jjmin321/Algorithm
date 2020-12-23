@@ -21,10 +21,8 @@ def solution(numbers, hand):
                     if i % 3 == 0 and i != 0: answer += 'R'; right_hand = [r_idx, c_idx]
                     elif i % 3 == 1: answer += 'L'; left_hand = [r_idx, c_idx]
                     else: 
-                        left_distance = ((left_hand[0] - r_idx if left_hand[0] >= r_idx else r_idx - left_hand[0])
-                                        +(left_hand[1] - c_idx if left_hand[1] >= c_idx else c_idx - left_hand[1]))
-                        right_distance = ((right_hand[0] - r_idx if right_hand[0] >= r_idx else r_idx - right_hand[0]) 
-                                        +(right_hand[1] - c_idx if right_hand[1] >= c_idx else c_idx - right_hand[1]))
+                        left_distance = abs(left_hand[0] - r_idx) + abs(left_hand[1] - c_idx)
+                        right_distance = abs(right_hand[0] - r_idx) + abs(right_hand[1] - c_idx)
                         if left_distance < right_distance: answer += 'L'; left_hand = [r_idx, c_idx]
                         elif right_distance < left_distance: answer += 'R'; right_hand = [r_idx, c_idx]
                         else: 
