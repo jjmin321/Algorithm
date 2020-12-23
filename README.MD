@@ -151,6 +151,9 @@
 - 연습문제 LEVEL1 : 하샤드 수 
     - Python : https://github.com/jjmin321/Algorithm/blob/master/PYTHON/Programmers/연습문제/하샤드수.py
 
+- 연습문제 LEVEL1 : 핸드폰 번호 가리기
+    - Python : https://github.com/jjmin321/Algorithm/blob/master/PYTHON/Programmers/연습문제/핸드폰번호가리기.py
+
 - 해시 LEVEL2 : 전화번호 목록 
     - Java : https://github.com/jjmin321/Algorithm/blob/master/JAVA/Programmers/Hash/전화번호목록.java
 
