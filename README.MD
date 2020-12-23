@@ -145,6 +145,9 @@
 - 연습문제 LEVEL1 : 콜라츠 추측
     - Python : https://github.com/jjmin321/Algorithm/blob/master/PYTHON/Programmers/연습문제/콜라츠추측.py
 
+- 연습문제 LEVEL1 : 평균 구하기
+    - Python : https://github.com/jjmin321/Algorithm/blob/master/PYTHON/Programmers/연습문제/평균구하기.py
+
 - 해시 LEVEL2 : 전화번호 목록 
     - Java : https://github.com/jjmin321/Algorithm/blob/master/JAVA/Programmers/Hash/전화번호목록.java
 
