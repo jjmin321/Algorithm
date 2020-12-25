@@ -160,6 +160,9 @@
 - 연습문제 LEVEL1 : x만큼 간격이 있는 n개의 숫자
     - Python : https://github.com/jjmin321/Algorithm/blob/master/PYTHON/Programmers/연습문제/x만큼간격이있는n개의숫자.py
 
+- 연습문제 LEVEL1 : 직사각형 별찍기
+    - Python : https://github.com/jjmin321/Algorithm/blob/master/PYTHON/Programmers/연습문제/직사각형별찍기.py
+
 - 해시 LEVEL2 : 전화번호 목록 
     - Java : https://github.com/jjmin321/Algorithm/blob/master/JAVA/Programmers/Hash/전화번호목록.java
 
