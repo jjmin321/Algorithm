@@ -172,6 +172,9 @@
 - 2019 KAKAO BLIND RECRUITMENT LEVEL1 : 실패율
     - Python : https://github.com/jjmin321/Algorithm/blob/master/PYTHON/Programmers/2019KAKAOBLINDRECRUITMENT/실패율.py
 
+- 2021 KAKAO BLIND RECRUITMENT LEVEL1 : 신규 아이디 추천
+    - Python : https://github.com/jjmin321/Algorithm/blob/master/PYTHON/Programmers/2021KAKAOBLINDRECRUITMENT/신규아이디추천.py
+
 - 해시 LEVEL2 : 전화번호 목록 
     - Java : https://github.com/jjmin321/Algorithm/blob/master/JAVA/Programmers/Hash/전화번호목록.java
 
