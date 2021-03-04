@@ -6,21 +6,22 @@ https://programmers.co.kr/learn/courses/30/lessons/42862
 '''
 
 def solution(n, lost, reserve):
-    result = n - len(lost)
-    for idx, lost_number in enumerate(lost):
-        for reserve_number in reserve:
-            if lost_number == reserve_number:
-                lost[idx] = -1
-                reserve.remove(reserve_number)
-                result += 1
+    answer = n-len(lost)
+    for idx, data in enumerate(lost):
+        for j in reserve:
+            if data == j:
+                answer += 1
+                lost[idx] = -1 
+                reserve.remove(j)
                 break
-    for idx, lost_number in enumerate(lost):
-        for reserve_number in reserve:
-            if lost_number-1 == reserve_number or lost_number+1 == reserve_number:
-                reserve.remove(reserve_number)
-                result += 1
+    for i in lost:
+        for j in reserve:
+            if i-1 == j or i+1 == j:
+                answer += 1
+                reserve.remove(j)
                 break
-    return result
+    
+    return answer
 
 n = 5
 lost = [2, 4]
