@@ -29,7 +29,7 @@
 
 from collections import deque
 
-def Bfs(graph, size):
+def Bfs(graph, n, m):
     Queue = deque([(0,0)])
     dx = [-1, 1, 0, 0]
     dy = [0, 0, -1, 1]
@@ -37,15 +37,15 @@ def Bfs(graph, size):
         x, y = Queue.popleft()
         for i in range(4):
             nx, ny = x + dx[i], y + dy[i]
-            if nx < 0 or nx >= size[0] or ny < 0 or ny >= size[1]:
+            if nx < 0 or nx >= n or ny < 0 or ny >= m:
                 continue
             elif graph[nx][ny] == 1:
                 graph[nx][ny] = graph[x][y] + 1
                 Queue.append((nx, ny))
-    return graph[size[0]-1][size[1]-1]
+    return graph[n-1][m-1]
 
 graph = []
 n, m = map(int, input().split())
 for i in range(n):
     graph.append(list(map(int, input())))
-print(Bfs(graph, [n, m]))
+print(Bfs(graph, n, m))
