@@ -178,6 +178,9 @@
 - Summer/Winter Coding(~2018) LEVEL2 : 스킬트리
     - Python : https://github.com/jjmin321/Algorithm/blob/master/PYTHON/Programmers/SummerWinterCoding/스킬트리.py
 
+- 스택큐 : 다리를지나는트럭 
+    - Python : https://github.com/jjmin321/Algorithm/blob/master/PYTHON/Programmers/스택큐/다리를지나는트럭.py
+
 - 해시 LEVEL2 : 전화번호 목록 
     - Java : https://github.com/jjmin321/Algorithm/blob/master/JAVA/Programmers/Hash/전화번호목록.java
 
