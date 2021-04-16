@@ -166,6 +166,9 @@
 - Summer/Winter Coding(~2018) LEVEL1 : 예산
     - Python : https://github.com/jjmin321/Algorithm/blob/master/PYTHON/Programmers/SummerWinterCoding/예산.py
 
+- 찾아라 프로그래밍 마에스터 LEVEL1 : 폰켓몬 
+    - Python : https://github.com/jjmin321/Algorithm/blob/master/PYTHON/Programmers/찾아라프로그래밍마에스터/폰켓몬.py
+
 - 2018 KAKAO BLIND RECRUITMENT LEVEL1 : 비밀지도
     - Python : https://github.com/jjmin321/Algorithm/blob/master/PYTHON/Programmers/2018KAKAOBLINDRECRUITMENT/비밀지도.py
 
