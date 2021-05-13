@@ -194,6 +194,9 @@
     - Go : https://github.com/jjmin321/Algorithm/blob/master/GO/Programmers/Hash/위장.go
     - Java : https://github.com/jjmin321/Algorithm/blob/master/JAVA/Programmers/Hash/위장.java
 
+- 힙 LEVEL2 : 더 맵게
+    - Python : https://github.com/jjmin321/Algorithm/blob/master/PYTHON/Programmers/힙/더맵게.py
+
 ## 프로그래머스_SQL
 
 - 모든 레코드 조회하기 
