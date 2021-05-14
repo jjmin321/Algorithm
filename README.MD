@@ -234,3 +234,6 @@
 
 - 이름이 있는 동물의 아이디
     - MySQL : https://github.com/jjmin321/Algorithm/blob/master/SQL/Programmers/IsNull/이름이있는동물의아이디.sql
+
+- 최솟값 구하기 
+    - MySQL : https://github.com/jjmin321/Algorithm/blob/master/SQL/Programmers/Sum%2CMax%2CMin/최솟값%20구하기.sql
