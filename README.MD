@@ -237,3 +237,6 @@
 
 - 최솟값 구하기 
     - MySQL : https://github.com/jjmin321/Algorithm/blob/master/SQL/Programmers/Sum%2CMax%2CMin/최솟값%20구하기.sql
+
+- 동물 수 구하기
+    - MySQL : https://github.com/jjmin321/Algorithm/blob/master/SQL/Programmers/Sum%2CMax%2CMin/동물수구하기.sql
