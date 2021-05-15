@@ -203,6 +203,9 @@
 - 힙 LEVEL2 : 더 맵게
     - Python : https://github.com/jjmin321/Algorithm/blob/master/PYTHON/Programmers/힙/더맵게.py
 
+- 해시 LEVEL3 : 베스트 앨범
+    - Python : https://github.com/jjmin321/Algorithm/blob/master/PYTHON/Programmers/해시/베스트앨범.py
+
 - 힙 LEVEL3 : 디스크 컨트롤러
     - Python : https://github.com/jjmin321/Algorithm/blob/master/PYTHON/Programmers/힙/디스크컨트롤러.py
 
