@@ -209,6 +209,9 @@
 - 완전탐색 LEVEL2 : 소수찾기
     - Python : https://github.com/jjmin321/Algorithm/blob/master/PYTHON/Programmers/완전탐색/소수찾기.py 
 
+- 완전탐색 LEVEL2 : 카펫
+    - Python : https://github.com/jjmin321/Algorithm/blob/master/PYTHON/Programmers/완전탐색/카펫.py
+
 - 해시 LEVEL3 : 베스트 앨범
     - Python : https://github.com/jjmin321/Algorithm/blob/master/PYTHON/Programmers/해시/베스트앨범.py
 
